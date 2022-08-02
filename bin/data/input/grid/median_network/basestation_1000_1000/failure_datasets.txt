@@ -1,0 +1,1 @@
+Data/median_network/topodata/grid/basestation_1000_1000/g_190_coordinates.txt
